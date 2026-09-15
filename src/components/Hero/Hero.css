@@ -24,6 +24,7 @@
 
     background-color: var(--color-accent);
     border: var(--border-width) solid var(--color-border);
+    border-radius: var(--border-radius);
 
     box-shadow: 4px 4px 0 var(--color-border);
 }
@@ -97,6 +98,7 @@
     background-color: var(--color-primary);
 
     border: var(--border-width) solid var(--color-border);
+    border-radius: var(--border-radius);
     box-shadow: var(--shadow-offset) var(--shadow-offset) 0 var(--color-border);
 }
 
@@ -148,7 +150,7 @@
 
 @media (max-width: 768px) {
     .hero {
-        padding: 64px 0;
+        padding: var(--section-spacing) 0;
     }
 
     .hero__container {

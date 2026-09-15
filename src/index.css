@@ -21,7 +21,7 @@
 
     /* Espaciado */
     --container-width: 1200px;
-    --section-spacing: 96px;
+    --section-spacing: 42px;
     --container-padding: 24px;
 }
 
@@ -80,7 +80,7 @@ button {
 
 @media (max-width: 768px) {
     :root {
-        --section-spacing: 64px;
+        --section-spacing: 48px;
         --container-padding: 16px;
     }
 }
