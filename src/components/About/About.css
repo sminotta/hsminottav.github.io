@@ -43,7 +43,8 @@
 }
 
 .about__title span {
-    color: var(--color-primary);
+    color: var(--color-background);
+    -webkit-text-stroke: 2px var(--color-border);
 }
 
 .about__shape {
