@@ -83,7 +83,7 @@
 }
 
 .hero__button--primary {
-    background-color: var(--color-secondary);
+    background-color: var(--color-primary);
 }
 
 .hero__visual {
@@ -129,7 +129,7 @@
     width: 220px;
     padding: 16px;
 
-    background-color: var(--color-secondary);
+    background-color: var(--color-primary);
     border: var(--border-width) solid var(--color-border);
 
     box-shadow: 6px 6px 0 var(--color-border);

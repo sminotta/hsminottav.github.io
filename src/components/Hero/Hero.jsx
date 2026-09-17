@@ -31,10 +31,10 @@ function Hero() {
                         <span>AN<br />IMAGE<br />HERE</span>
                     </div>
 
-                    <div className="hero__code-card">
+                    {/* <div className="hero__code-card">
                         <span></span>
                         <p>Building for the web</p>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>

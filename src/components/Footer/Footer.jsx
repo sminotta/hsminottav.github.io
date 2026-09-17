@@ -13,11 +13,11 @@ function Footer() {
                 </a>
 
                 <div className="footer__links">
-                    <a href="#" target="_blank" rel="noreferrer" aria-label="GitHub">
+                    <a href="https://github.com/sminotta" target="_blank" rel="noreferrer" aria-label="GitHub">
                         <FaGithub />
                     </a>
 
-                    <a href="#" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+                    <a href="https://www.linkedin.com/in/hsminottav" target="_blank" rel="noreferrer" aria-label="LinkedIn">
                         <FaLinkedinIn />
                     </a>
 
