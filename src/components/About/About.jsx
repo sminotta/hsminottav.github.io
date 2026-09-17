@@ -16,7 +16,7 @@ function About() {
                         </h2>
 
                         <div className="about__shape">
-                            ✦
+                            ✷
                         </div>
                     </div>
 

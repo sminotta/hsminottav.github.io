@@ -23,7 +23,7 @@ function Contact() {
         {
             name: 'Email',
             description: 'Send me a message directly.',
-            href: 'sminotta.dev@outlook.com',
+            href: 'mailto:sminotta.dev@outlook.com',
             icon: <MdEmail />,
             className: 'contact__link--email',
         },

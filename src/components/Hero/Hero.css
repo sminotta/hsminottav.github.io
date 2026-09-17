@@ -121,6 +121,11 @@
     box-shadow: 8px 8px 0 var(--color-border);
 }
 
+.hero__symbol {
+    font-size: 10rem;
+    line-height: 1;
+}
+
 .hero__code-card {
     position: absolute;
     right: 8%;

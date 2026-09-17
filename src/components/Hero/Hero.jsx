@@ -28,7 +28,7 @@ function Hero() {
                 <div className="hero__visual">
 
                     <div className="hero__image">
-                        <span>AN<br />IMAGE<br />HERE</span>
+                        <span className='hero__symbol'>✺</span>
                     </div>
 
                     {/* <div className="hero__code-card">
