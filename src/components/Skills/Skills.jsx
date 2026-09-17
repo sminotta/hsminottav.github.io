@@ -41,7 +41,7 @@ function Skills() {
         {
             name: 'PHP',
             category: 'Backend',
-            description: 'Python web development',
+            description: 'Server-side web development',
             className: 'skills__item--accent',
         },
 
@@ -51,6 +51,13 @@ function Skills() {
             description: 'Version control and collaborative development',
             className: 'skills__item--secondary',
         },
+
+        {
+            name: 'Wordpress',
+            category: 'CMS',
+            description: 'Creating and managing dynamic websites',
+            className: 'skills__item--primary',
+        }
     ]
 
     return (
